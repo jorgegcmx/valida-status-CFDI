@@ -1,0 +1,12 @@
+C:\Users\AuxDes03\AppData\Local\Temporary Projects\estadodecfdi\bin\Debug\estadodecfdi.exe.config
+D:\prueba\Jorge Antonio\Repor Git\estadodecfdi\estadodecfdi\bin\Debug\estadodecfdi.exe.config
+D:\prueba\Jorge Antonio\Repor Git\estadodecfdi\estadodecfdi\obj\Debug\ResolveAssemblyReference.cache
+D:\prueba\Jorge Antonio\Repor Git\estadodecfdi\estadodecfdi\obj\Debug\estadodecfdi.Form1.resources
+D:\prueba\Jorge Antonio\Repor Git\estadodecfdi\estadodecfdi\obj\Debug\estadodecfdi.Resources.resources
+D:\prueba\Jorge Antonio\Repor Git\estadodecfdi\estadodecfdi\obj\Debug\estadodecfdi.vbproj.GenerateResource.Cache
+D:\prueba\Jorge Antonio\Repor Git\estadodecfdi\estadodecfdi\bin\Debug\estadodecfdi.exe
+D:\prueba\Jorge Antonio\Repor Git\estadodecfdi\estadodecfdi\bin\Debug\estadodecfdi.pdb
+D:\prueba\Jorge Antonio\Repor Git\estadodecfdi\estadodecfdi\bin\Debug\estadodecfdi.xml
+D:\prueba\Jorge Antonio\Repor Git\estadodecfdi\estadodecfdi\obj\Debug\estadodecfdi.exe
+D:\prueba\Jorge Antonio\Repor Git\estadodecfdi\estadodecfdi\obj\Debug\estadodecfdi.xml
+D:\prueba\Jorge Antonio\Repor Git\estadodecfdi\estadodecfdi\obj\Debug\estadodecfdi.pdb
